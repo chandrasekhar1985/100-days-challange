@@ -1,0 +1,59 @@
+# 100 Days Hacking Challenge 🚀
+
+## Day 2 – IP Addressing, DNS, Ports & Protocols
+
+During a real-world investigation scenario, tracking suspicious login activity helped me understand the importance of IP addresses in cybersecurity.
+
+On Day 2, I learned about:
+- **IPv4 and IPv6** and their differences
+- **Public and private IP ranges**
+- **Domain names and domain structure**
+- The role and importance of **DNS (Domain Name System)**
+- **Ports** and how they identify running services
+- **Protocols** that define how systems communicate
+
+### Key Concepts Learned
+
+### 🔹 IP Addresses
+- Unique identifiers for devices on a network
+- Used to trace suspicious activity and attack sources
+- Critical for network monitoring and investigations
+
+### 🔹 IPv4 vs IPv6
+- IPv4 uses 32-bit addresses (limited)
+- IPv6 uses 128-bit addresses (expanded space)
+- IPv6 improves scalability and efficiency
+
+### 🔹 Public vs Private IPs
+- Private IPs are used inside local networks
+- Public IPs are visible on the internet
+- NAT connects private networks to the public internet
+
+### 🔹 Domain Names & Structure
+- Human-readable names for websites
+- Structured into subdomain, domain, and TLD
+- Important for understanding web infrastructure
+
+### 🔹 DNS (Domain Name System)
+- Translates domain names into IP addresses
+- Acts as the internet’s phonebook
+- Common target in cyber attacks
+
+### 🔹 Ports
+- Identify specific services on a system
+- Examples:  
+  - 80 – HTTP  
+  - 443 – HTTPS  
+  - 22 – SSH
+- Used in service discovery and scanning
+
+### 🔹 Protocols
+- Rules for data transmission
+- TCP ensures reliable communication
+- UDP offers faster, connectionless communication
+- HTTP/HTTPS power web traffic
+
+### Key Takeaway
+Understanding IP addressing, DNS, ports, and protocols is essential for tracing attackers, identifying exposed services, and analyzing how systems communicate over the internet.
+
+📘 *Strong networking fundamentals are the backbone of cybersecurity.*
