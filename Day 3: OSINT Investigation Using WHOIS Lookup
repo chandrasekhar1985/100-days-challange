@@ -1,0 +1,46 @@
+# 100 Days Hacking Challenge 🚀
+
+## Day 3 – WHOIS Lookup & OSINT Investigation
+
+On Day 3, I investigated a fake cryptocurrency investment website that promised unrealistic returns.  
+Instead of making assumptions, I performed a **WHOIS lookup** to gather factual information about the domain.
+
+### What I Discovered Using WHOIS
+- Domain registrar details
+- Hosting provider information
+- Domain registration and expiration dates
+- Registrant contact information (when available)
+
+This showed me how **WHOIS acts as a starting point for OSINT (Open-Source Intelligence) investigations**.
+
+---
+
+## Key Concepts Learned
+
+### 🔹 WHOIS Lookup
+- A public database that stores domain registration details
+- Helps identify who owns or manages a domain
+- Often used in cyber investigations and fraud analysis
+
+### 🔹 Role of WHOIS in OSINT
+- First step in investigating suspicious or scam websites
+- Provides verifiable technical information
+- Helps avoid guessing and assumptions
+
+### 🔹 Identifying Scam Networks
+- Similar registration details can link multiple fake websites
+- Same registrar or hosting provider may be reused
+- Patterns help uncover larger scam operations
+
+### 🔹 Evidence Preservation
+- Registration dates help establish timelines
+- Domain details support investigation reports
+- Useful for legal, security, and research purposes
+
+---
+
+## Key Takeaway
+WHOIS lookups provide critical intelligence during investigations.  
+They help trace scam infrastructure, connect related domains, and preserve evidence using publicly available data.
+
+📘 *Effective investigations begin with accurate information, not assumptions.*
