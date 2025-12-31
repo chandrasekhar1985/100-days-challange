@@ -1,0 +1,51 @@
+# 100 Days Hacking Challenge 🚀
+
+## Day 4 – Subdomain Enumeration & Attack Surface Discovery
+
+On Day 4, I analyzed a scenario where a company had heavily secured its main website, but hidden vulnerabilities existed in its subdomains.  
+During the assessment, I discovered that **forgotten and less-monitored subdomains** often expose the real attack surface.
+
+### What I Learned
+
+Subdomain enumeration is a technique used to discover additional assets related to a main domain. These assets are frequently overlooked during security hardening.
+
+---
+
+## Key Concepts Learned
+
+### 🔹 Subdomain Enumeration
+- The process of identifying subdomains linked to a primary domain
+- Helps expand the visible attack surface
+- Common in penetration testing and bug bounty hunting
+
+### 🔹 Why Subdomains Are Vulnerable
+- Often lack regular security updates
+- May host older or legacy applications
+- Security controls are weaker than the main website
+
+### 🔹 Common Findings on Subdomains
+- Exposed admin panels
+- Test or staging environments
+- Development servers
+- Legacy applications
+
+### 🔹 Role in Real-World Breaches
+- Attackers target the weakest entry point
+- Subdomains provide indirect access paths
+- Frequently used for lateral movement
+
+---
+
+## Investigation Value
+- Reveals hidden assets
+- Improves asset inventory
+- Helps organizations secure overlooked systems
+- Reduces real-world breach risks
+
+---
+
+## Key Takeaway
+A well-secured main website does not guarantee overall security.  
+Subdomains often become the weakest link and a primary entry point during cyber attacks.
+
+📘 *Security is only as strong as the least protected asset.*
